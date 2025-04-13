@@ -1,5 +1,7 @@
 ## Smiles & Stats GPT
 Data analytics GPT for automatically analyzing World Happiness dataset
+Code and original GPT developed by Shouq Alzahmi, Maryam Ezzaza, and Jawaher Alyammahi.
+Later versions and Prompt Set - v08g developed by Gurdal Ertek and deployed under ChatGPT.
 
 ## Inspiration
 1. Extracting meaningful insights from vast amounts of information can be overwhelming. 
